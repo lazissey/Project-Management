@@ -3,7 +3,7 @@
 Dr. Bradly Alicea
 [bradly.alicea@outlook.com](mailto:bradly.alicea@outlook.com), [balicea@illinois.edu](mailto:balicea@illinois.edu)
 
-Check out our discussion board to connect with your classmates!
+Check out our [discussion board](https://github.com/OREL-group/Project-Management/discussions/1) to connect with your classmates!
 
 Big, Unfinished Ideas Discord [link](https://discord.gg/ZvxwgXg), #project-management 
 
