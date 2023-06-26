@@ -1,6 +1,4 @@
 # Lazaro's Highlight Reel of Interests
-##### _I'm not great with code, so this may have some mixed results_ 
-------------------------------------------------------------------------------------------------------------------------------
 
 ## The new Volvo EX30
 _It looks pretty cool, doesn't it?_
