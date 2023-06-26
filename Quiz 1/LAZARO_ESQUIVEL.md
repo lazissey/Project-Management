@@ -3,8 +3,9 @@
 ------------------------------------------------------------------------------------------------------------------------------
 
 ## The new Volvo EX30
-###### _It looks pretty cool, doesn't it?_
-###### Lazaro Esquivel • June 26, 2023 ~ 11:00am
+_It looks pretty cool, doesn't it?_
+
+Lazaro Esquivel • June 26, 2023 ~ 11:00am
 ![The new Volvo EX30](https://www.media.volvocars.com/image/low/313301/1_1/5)
    The Volvo EX30 was unveiled early this month, June 2023, and is a completely new model for the brand. It's their smallest vehicle yet, with a remarkably low base MSRP that puts it in-line with mainstream brands' current electric offerings, or even undercuts them in price.
    **Here are some interesting features:** 
@@ -18,8 +19,9 @@
 > >https://www.media.volvocars.com/global/en-gb/media/presskits/313145/volvo-ex30
 ------------------------------------------------------------------------------------------------------------------------------
 ## Oaxacan Alebrijes
-###### _An "ancient" artform (in some ways, and not literally)_
-###### Lazaro Esquivel • June 26, 2023 ~ 11:30am
+_An "ancient" artform (in some ways, and not literally)_
+
+Lazaro Esquivel • June 26, 2023 ~ 11:30am
 ![Jimenez Alebrije Owl](https://cdn.shopify.com/s/files/1/0251/6225/2387/products/IMG_0155_b16f1c2b-d7a7-4ced-9e6f-dd11f48093b7_1024x1024.jpg?v=1623282069)
    I recently traveled to Mexico, and among the various cities we went to was Oaxaca de Juárez of the state of Oaxaca. Some of you may know of the colorful creatures called Alebrijes (roughly pronounced: Ah-Lay-Bree-Hez) from the Disney film "Coco" as the spirit guides of various characters.
    I went to a workshop that specializes in these carvings, which are made of a wood called Copal. Its soft character makes it a perfect carving wood. There, I learned that Alebrijes came into being only about 100 years ago in Mexico City from the Linares family. It eventually reached Oaxaca, where the Jimenez family adapted the original form of painted papier-mâché into Oaxacan woodcarving.
