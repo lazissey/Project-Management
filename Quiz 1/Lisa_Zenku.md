@@ -3,13 +3,11 @@
 
 ![London](https://assets.editorial.aetnd.com/uploads/2019/03/topic-london-gettyimages-760251843-feature.jpg)
 
-List of stuff
+Fun Facts about London:
 
+- The **smallest** city in England is London
 
-
-
-
-[link](https://beelinguapp.com/blog/facts-about-london)
+[More London Fun Facts](https://beelinguapp.com/blog/facts-about-london)
 
 <H2>COUNTRY2</H2>
 #IMAGE
