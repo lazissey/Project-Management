@@ -3,4 +3,5 @@
 Bradly Alicea\
 Stefan Chu\
 Lazaro Esquivel\
-Aishani Sahoo
+Aishani Sahoo\
+Lisa Zenku
