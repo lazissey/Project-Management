@@ -15,7 +15,7 @@ Fun Facts about London:
 
 <H2>Saranda, Albania</H2>
 
-!{Saranda}(https://theholisticbackpacker.com/wp-content/uploads/2022/08/IMG_8025.jpg)
+![Saranda](https://theholisticbackpacker.com/wp-content/uploads/2022/08/IMG_8025.jpg)
 
 Fun Facts about Saranda:
 
