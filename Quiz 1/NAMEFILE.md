@@ -4,4 +4,5 @@ Bradly Alicea\
 Stefan Chu\
 Lazaro Esquivel\
 Aishani Sahoo\
-Lisa Zenku
+Lisa Zenku\
+Hojae Lee\
