@@ -1,7 +1,7 @@
  # Japan Travel Guide
 
 ## **Tōkyō 東京**
-![Tokyo](https://www.history.com/news/six-things-you-should-know-about-tokyo)
+![Tokyo](https://assets.editorial.aetnd.com/uploads/2013/07/gettyimages-1390815938.jpg)
 
 ### **About Tokyo** 
 
