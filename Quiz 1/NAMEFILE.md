@@ -5,5 +5,6 @@ Stefan Chu\
 Lazaro Esquivel\
 Aishani Sahoo\
 Lisa Zenku\
+Cesar Solis\
 Hojae Lee
-Cesar Agustin Solis Mondragon
+
