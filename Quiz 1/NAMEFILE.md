@@ -6,4 +6,4 @@ Lazaro Esquivel\
 Aishani Sahoo\
 Lisa Zenku\
 Hojae Lee
-Cesar Agustin Solis Mondragon
+Cesar Agustin Solis Mondragon\
