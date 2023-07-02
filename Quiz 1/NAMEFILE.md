@@ -7,4 +7,4 @@ Lazaro Esquivel\
 Aishani Sahoo\
 Lisa Zenku\
 Hojae Lee
-Daniel Belzer
+Daniel Belzer\
