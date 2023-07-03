@@ -13,7 +13,7 @@
 
 ### Extra Supplies
 - **S'mores**
-- *Marshmellows
+- *Marshmellows*
 - *Chocolate*
 - *Firesticks*
 
