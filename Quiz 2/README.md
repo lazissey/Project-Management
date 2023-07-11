@@ -16,7 +16,7 @@ You will working on [the Quiz #2 project board](---) within our organization. Pl
 
 ![](https://user-images.githubusercontent.com/19001437/225823530-eb1f3a52-1346-43ae-b5da-13c9d1fadca3.png)
 
-* refer to the lecture slides from the March 23 lecture for more information.
+* refer to the lecture slides from the July 12 lecture for more information.
 
 
 4) create a final issue through the [repository issue template](https://github.com/OREL-group/Project-Management/issues/new/choose). Please follow the prompts to answer questions about your issue. 
