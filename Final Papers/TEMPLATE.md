@@ -2,12 +2,9 @@
 Lazaro Esquivel, SU2023, https://github.com/lazissey
 
 
-
-### Abstract   
+ 
 
 [Comment_1]: <> (begin your text here)
-
-Sexual Health is a complex and nuanced subject in the United States for as long as public education has been concerned over. In recent years, it has reached a fever pitch, with state legislatures waging partisan battles over health access and educational policy, that attempts to cement Americans into two binary camps with no in-between with closely related topics such as abortion access, gender-affirming care, and LBGTQ+ education. Concerning K-12 education however, the fight is a quieter one, but one that is arguably just a fierce of a battle. This project attempts to address gaps in primarily United States sexual health education and versions offered abroad among college-aged undergraduate students, and to understand why students lack adequate sexual health education which empowers them to make safe and informed decisions. The scope will be kept on campus at the University of Illinois at Urbana-Champaign and expand elsewhere across colleges universities as the project is established.
 
 [Comment_2]: <> (An example of a reference in paper text, cite in Reference list -- see Comment 8)
 
@@ -30,7 +27,7 @@ On a more local level, the need to address sexual health is clear as well. Accor
 In Illinois, public education of sexual health subjects is relatively unregulated, and what this education looks like depends almost entirely on local school district policy and the individual teacher teaching the material. With this in place, education may be more than comprehensive with right teacher and district guidelines or lack the right information and may practice fearmongering or abstinence-only education.  In Illinois’s case, topics such as LGBT identities and experiences are not required, and again, individual school districts still have local control over curriculum and are not even required to teach sex education at all. With such a wide range of education from place to place within the state, incoming college students arrive with an incredibly variable amount of sexual education. It is within this context that sexual education, particularly with young adults in college aged 18-21, must be addressed.
 
 
-| ![](https:/github.com/lazissey/Project-Management/sexually-transmitted-infections-in-champaign-county-il.jpg) | 
+| ![](https://github.com/lazissey/Project-Management/blob/main/sexually-transmitted-infections-in-champaign-county-il.jpg) | 
 | :--: |
 | <b>Figure 1.</b> Caption test. [Store image as an issue](https://github.com/OREL-group/Project-Management/issues/279) or in the local directory. |   
 
@@ -48,6 +45,9 @@ __Paragraph heading__
 ### Conclusion      
 
 [Comment_7]: <> (begin your text here)
+
+
+Sexual Health is a complex and nuanced subject in the United States for as long as public education has been concerned over. In recent years, it has reached a fever pitch, with state legislatures waging partisan battles over health access and educational policy, that attempts to cement Americans into two binary camps with no in-between with closely related topics such as abortion access, gender-affirming care, and LBGTQ+ education. Concerning K-12 education however, the fight is a quieter one, but one that is arguably just a fierce of a battle. This project attempts to address gaps in primarily United States sexual health education and versions offered abroad among college-aged undergraduate students, and to understand why students lack adequate sexual health education which empowers them to make safe and informed decisions. The scope will be kept on campus at the University of Illinois at Urbana-Champaign and expand elsewhere across colleges universities as the project is established.
 
 
 ### References     
