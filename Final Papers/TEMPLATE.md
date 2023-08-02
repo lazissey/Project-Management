@@ -2,8 +2,6 @@
 Lazaro Esquivel, SU2023, https://github.com/lazissey
 
 
- 
-
 [Comment_1]: <> (begin your text here)
 
 [Comment_2]: <> (An example of a reference in paper text, cite in Reference list -- see Comment 8)
@@ -12,7 +10,7 @@ Lazaro Esquivel, SU2023, https://github.com/lazissey
 [Comment_3]: <> (begin your text here)
 
 As recent headlines and news would suggest, the subjects of sexual health and access have been hotly debated on all stages, from federal courts to state legislatures, and has bred an epidemic of misinformation and broad sensationalizing of abortion, LGBTQ care and education, and sexual health education. According to Pagato et al. (2023), the reversal of Roe v. Wade has triggered a chain reaction that has produced unprecedented misinformation:
-The recent reversal of Roe v. Wade given way to an abortion infodemic that is being exacerbated by a confusing and rapidly changing legislative landscape, the proliferation of abortion disinformants on the web, lax efforts by social media companies to abate abortion misinformation, and proposed legislation that threatens to prohibit the distribution of evidence-based abortion information” (Pagato 2023). 
+>The recent reversal of Roe v. Wade given way to an abortion infodemic that is being exacerbated by a confusing and rapidly changing legislative landscape, the proliferation of abortion disinformants on the web, lax efforts by social media companies to abate abortion misinformation, and proposed legislation that threatens to prohibit the distribution of evidence-based abortion information” (Pagato 2023). 
 
 Similarly, misrepresentations of gender-affirming care have proliferated as transgender care access has become an issue that is impossible to ignore across conservative America in Republican-dominated state legislatures. According to McNamara et al. (2022), over 20 bills that criminalize the standard care for gender-diverse youth have been recently introduced in the state legislatures and three have passed (p.251). McNamara et al. further state that these state legislatures have “proved fertile ground for the intentional misrepresentation of gender-affirming care (GAC)” and that “elected officials rarely offer scientific, peer-reviewed sources in the anti-GAC bills”( p.251), citing anti-LGBTQ political organizations as medical authorities. With policy being the main controller of the quality of education students receive in the United States and local school districts playing an outsized role in what is taught, it is my concern that the quality of basic sexual education and related topics is severely lacking. 
 
