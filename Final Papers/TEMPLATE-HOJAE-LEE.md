@@ -1,4 +1,5 @@
-## IS340 Term Paper: 
+## IS340 Term Paper: Open Source Japan Tourist Guide Webpage
+
 Hojae Lee, Summer 2023
 
 ### Abstract
